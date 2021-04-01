@@ -1,5 +1,6 @@
 # Redis-C-API
-Redis's C API.Linux can use this API to operate the redis database.
+Redis's C API.Linux can use this API to operate the redis database.<br>
+在LINUX系统上用于连接Redis数据库，和对数据库发送操作命令。
 
 ## 一、hiredis安装
 下载hiredis包或使用redis包中的hiredis。解压后make编译，然后make install安装。<br>
